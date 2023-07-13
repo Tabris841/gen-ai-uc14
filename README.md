@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+### React Locale Formatter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Locale Formatter is an intuitive and user-friendly web application built for dynamic language and formatting conversions. The application capitalizes on the power of React and internationalization (i18n), offering seamless translation and formatting of content in multiple languages. With a core focus on practicality, React Locale Formatter ensures that users can switch between languages with ease, facilitating improved readability and accessibility in multi-lingual settings. This feature is essential for websites or applications with a global audience, as it guarantees everyone has the information they need in the language they prefer.
 
-## Available Scripts
+The application doesn't just handle language translations, it also effortlessly formats date/time, numbers, and units of measurements based on locale preferences. Users can enjoy 4 different formats for date and time, alongside diverse number formatting options within a range of 1 to 1,000,000,000. These capabilities are further extended to include 3 different units of measurements, namely inches vs centimeters, pounds vs kilograms, and liters vs oz. The robust error-handling mechanism in place ensures that even in the event of missing translations or formatting, the application continues to operate flawlessly. React Locale Formatter offers a tailored user experience, catering to an international user base with its multi-lingual and multi-format support.
 
-In the project directory, you can run:
+### In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### How change locale
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Just run the app and from the select choose one of the available languages
